@@ -1,0 +1,3 @@
+C:/Users/Vlad/Desktop/lucrari/SDA/pregatire colocviu/greedy/ex1/cmake-build-debug/CMakeFiles/ex1.dir
+C:/Users/Vlad/Desktop/lucrari/SDA/pregatire colocviu/greedy/ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vlad/Desktop/lucrari/SDA/pregatire colocviu/greedy/ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
